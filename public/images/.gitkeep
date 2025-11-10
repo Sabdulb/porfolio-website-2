@@ -1,0 +1,7 @@
+# Images Folder
+
+Place your images here and reference them using `/images/your-image-name.jpg`
+
+Example:
+- Profile photo: `/images/profile.jpg`
+- Project screenshots: `/images/project-1.png`
